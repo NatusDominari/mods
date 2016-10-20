@@ -56,7 +56,7 @@ class CfgSounds
 	{
 		name = "";
 		// filename, volume, pitch
-		sound[] = {"\ndClient\sounds\spawn_blufor.ogg", 0.5, 1};
+		sound[] = {"@ndClient\sounds\spawn_blufor.ogg", 0.5, 1};
 		titles[] = {0,""};
 	};
 
@@ -64,7 +64,7 @@ class CfgSounds
 	{
 		name = "";
 		// filename, volume, pitch
-		sound[] = {"\ndClient\sounds\spawn_opfor.ogg", 0.5, 1};
+		sound[] = {"@ndClient\sounds\spawn_opfor.ogg", 0.5, 1};
 		titles[] = {0,""};
 	};
 
@@ -72,7 +72,7 @@ class CfgSounds
 	{
 		name = "";
 		// filename, volume, pitch
-		sound[] = {"\ndClient\sounds\suspense.ogg", 0.5, 1};
+		sound[] = {"@ndClient\sounds\suspense.ogg", 0.5, 1};
 		titles[] = {0,""};
 	};
 
@@ -80,7 +80,7 @@ class CfgSounds
 	{
 		name = "";
 		// filename, volume, pitch
-		sound[] = {"\ndClient\sounds\blufor_wins.ogg", 1, 1};
+		sound[] = {"@ndClient\sounds\blufor_wins.ogg", 1, 1};
 		titles[] = {0,""};
 	};
 
@@ -88,7 +88,7 @@ class CfgSounds
 	{
 		name = "";
 		// filename, volume, pitch
-		sound[] = {"\ndClient\sounds\opfor_wins.ogg", 1, 1};
+		sound[] = {"@ndClient\sounds\opfor_wins.ogg", 1, 1};
 		titles[] = {0,""};
 	};
 };
