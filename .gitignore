@@ -1,29 +1,29 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# arma-specific
+*.pbo
+*.bin
+!*
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# executables
+*.com
+*.exe
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
+# archives
+*.zip
+*.rar
+*.7z
+*.jar
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# os-specific
+*~
+._*
+.DS_Store*
+.Trash*
+*.lnk
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
-# Executables
-*.exe
-*.out
-*.app
+# junk
+*.log

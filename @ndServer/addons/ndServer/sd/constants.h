@@ -1,0 +1,2 @@
+#define PLANNING_TIME 120
+#define ROUND_TIME 600
