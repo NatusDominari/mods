@@ -1,0 +1,14 @@
+name = "Natus Dominari Client";
+picture = "logo.paa";
+actionName = "Website";
+action = "http://natusdominari.enjin.com";
+description = "Bugtracker: https://github.com/NatusDominari/mods/issues";
+logo = "logo.paa";
+logoOver = "logo.paa";
+tooltip = "Natus Dominari Client";
+tooltipOwned = "Natus Dominari Owned";
+overview = "Collection of assets used by Natus Dominari community.";
+author = "Natus Dominari mission making team";
+overviewPicture = "logo.paa";
+overviewText = "Collection of assets used by Natus Dominari community.";
+overviewFootnote = "<br /><br /><t color='#999999'>This content is under GPLv2 License.<br />Press <t /><t color='#19d3ff'>Left Shift + P<t /><t color='#999999'> to open the store page for more information.<t />";

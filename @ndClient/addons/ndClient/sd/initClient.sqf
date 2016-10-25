@@ -40,8 +40,8 @@ if (!isDedicated) then {
     };
 
     while { isNil "planning_phase_ended" } do {
-        cutText ["Briefing phase, don't leave your spawn area.", "PLAIN DOWN", 5];
-        sleep 30;
+        cutText ["Briefing phase, don't leave your spawn area.", "PLAIN", 3];
+        sleep 10;
     };
 };
 
