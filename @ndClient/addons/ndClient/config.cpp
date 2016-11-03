@@ -67,3 +67,25 @@ class CfgSounds
 		titles[] = {0,""};
 	};
 };
+
+class CfgMusic
+{
+    tracks[]={BHDMainTheme};
+
+	class BHDMainTheme
+	{
+		name = "";
+		sound[] = {"\nd\client\music\bhd_main_theme.ogg", db+0, 1.0};
+	};
+};
+
+class CfgUnitInsignia
+{
+	class NatusDominariTaskForce
+	{
+		displayName = "Natus Dominari Task Force"; // Name displayed in Arsenal
+		author = "Natus Dominari"; // Author displayed in Arsenal
+		texture = "\nd\client\images\insignia.paa"; // Image path
+		textureVehicle = ""; // Does nothing currently, reserved for future use
+	};
+};
